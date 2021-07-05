@@ -1,10 +1,16 @@
 body {
   font-family: "Poppins", sans-serif;
+  margin: 0%;
 }
 h1 {
   font-size: 50px;
   color: gray;
   font-weight: bolder;
+}
+h2 {
+  font-size: 40px;
+  font-weight: bold;
+  color: gray;
 }
 h3 {
   color: gray;
@@ -31,4 +37,9 @@ h3 {
   color: white;
   font-weight: 600;
   border-radius: 40px;
+}
+.about-me {
+  background-image: url(images/shapes/7.png);
+  background-repeat: no-repeat;
+  padding: 5%;
 }

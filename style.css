@@ -67,3 +67,40 @@ h3 {
   font-weight: bolder;
   font-size: 25px;
 }
+.online-activity h1 {
+  color: black;
+  display: inline;
+  margin-right: 10%;
+  margin-left: 10%;
+  font-size: 50px;
+}
+.online-activity p {
+  display: inline;
+  color: gray;
+  margin-right: 10%;
+  margin-left: 7%;
+}
+.online-activity {
+  width: 90%;
+  box-shadow: 10px 10px 40px gray;
+  border-radius: 10px;
+  padding: 2%;
+  margin-right: 5%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-left: 3%;
+}
+.blue {
+  color: blue;
+}
+footer {
+  background-color: black;
+  text-align: center;
+  margin-top: 5%;
+  padding-top: 2%;
+}
+footer p {
+  text-align: center;
+  color: white;
+  padding-bottom: 2%;
+}

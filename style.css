@@ -12,10 +12,12 @@ h2 {
   font-weight: bold;
   color: gray;
 }
+
 h3 {
   color: gray;
   font-weight: 500;
 }
+
 .orange {
   color: orange;
 }
@@ -42,4 +44,26 @@ h3 {
   background-image: url(images/shapes/7.png);
   background-repeat: no-repeat;
   padding: 5%;
+}
+.receipe-width {
+  width: 42%;
+  margin-left: 3%;
+  margin-right: 3%;
+  padding-left: 15px;
+  box-shadow: 10px 10px 40px gray;
+  border-radius: 10px;
+}
+.image-size {
+  width: 95%;
+  padding-top: 5%;
+}
+.text-fix {
+  text-align: center;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+#text-color {
+  color: black;
+  font-weight: bolder;
+  font-size: 25px;
 }
